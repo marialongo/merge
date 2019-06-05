@@ -1,3 +1,4 @@
 function cumprimento() {
-    alert("olá");
+  var nome = prompt("digite seu nome");
+    alert("olá"+nome);
 }
